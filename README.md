@@ -257,13 +257,13 @@ ohmo runs on your existing **Claude Code subscription** or **Codex subscription*
 
 ```bash
 # Single prompt → stdout
-oh -p "Explain this codebase"
+oh -p "Find vulnerabilities this codebase"
 
 # JSON output for programmatic use
-oh -p "List all functions in main.py" --output-format json
+oh -p "List all functions in main.py" --output-format json and provide secure code
 
 # Stream JSON events in real-time
-oh -p "Fix the bug" --output-format stream-json
+oh -p "Fix the bug with secure code" --output-format stream-json
 ```
 
 ### Dry Run (Safe Preview)
