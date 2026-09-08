@@ -11,6 +11,7 @@
   <a href="README.zh-CN.md"><strong>简体中文</strong></a>
 </p>
 
+this us fork from OpenHarnesss.  This is security harness
 **OpenHarness** delivers core lightweight agent infrastructure: tool-use, skills, memory, and multi-agent coordination.
 
 **ohmo** is a personal AI agent built on OpenHarness — not another chatbot, but an assistant that actually works for you over long sessions. Chat with ohmo in Feishu / Slack / Telegram / Discord, and it forks branches, writes code, runs tests, and opens PRs on its own. ohmo runs on your existing Claude Code or Codex subscription — no extra API key needed.
